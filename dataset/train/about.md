@@ -2,5 +2,5 @@
 * **Step 1**: Create a new folder named by the insect
 * E.g. mosquito
 * **Step 2**: Inside the folder, create image folder and audio folder named by the insect and image/ audio
-* E.g. mosquito_image, mosquito.audio
+* E.g. mosquito_image, mosquito_audio
 * **Step 3**: Upload images and audios
