@@ -1,1 +1,1 @@
-# Insects-Detection-and-Classification
+# Wounds-and-Injuries-Detection-and-Classification
