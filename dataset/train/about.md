@@ -1,6 +1,5 @@
 ### Step by step what to do in this folder
-* **Step 1**: Create a new folder named by the insect
-* E.g. mosquito
-* **Step 2**: Inside the folder, create image folder and audio folder named by the insect and image/ audio
-* E.g. mosquito_image, mosquito_audio
-* **Step 3**: Upload images and audios
+* **Step 1**: Create a new folder named by the type of wounds/ injuries
+* E.g. bite
+* **Step 2**: Upload images, named by the wounds/injuries_number
+* E.g. bite_001
